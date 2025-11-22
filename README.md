@@ -1,6 +1,6 @@
-Pit-Boy 3000 Mark IV – A Retro Fallout-Inspired Personal Interface
+Pip-Boy 3000 Mark IV – A Retro Fallout-Inspired Personal Interface
 
-Welcome to Pit-Boy 3000 Mark IV, a small side-project inspired by the classic Pip-Boy terminals from the Fallout universe.
+Welcome to Pip-Boy 3000 Mark IV, a small side-project inspired by the classic Pip-Boy terminals from the Fallout universe.
 It’s not meant to be a huge app or a fancy framework — just a personal, retro-styled interface built for fun, immersion, and everyday use.
 
 This project recreates the vibe of an in-game terminal: green glow, vintage flicker, a subtle boot sequence, ambient sounds, and a simple but functional layout. Everything works entirely on the client side, with no servers and no external dependencies.
@@ -23,7 +23,6 @@ Radiation meter with slight random fluctuation
 Weight indicator
 
 Real-time clock and date synced with the user’s device
-
 
 It doesn’t try to be a real RPG system — just something that feels alive on the screen.
 
@@ -53,7 +52,7 @@ Three in-universe radio stations you can switch between, each opening a playlist
 
 🔒 Privacy & Safety
 
-PITboy3000MarkIV runs entirely in the browser.
+Pip-Boy 3000 Mark IV runs entirely in the browser.
 No accounts, no tracking, no API keys, no external services.
 
 All saved data — like your notes — lives only inside your local browser storage, meaning:
